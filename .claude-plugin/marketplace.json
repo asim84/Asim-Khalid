@@ -1,0 +1,13 @@
+{
+  "name": "asim-khalid-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Code plugins for the Asim-Khalid project",
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "version": "1.0.0",
+      "description": "Frontend skill for the Next.js + Tailwind CSS project. Helps create components, pages, and UI styling.",
+      "source": ".claude-plugin/plugins/frontend-design"
+    }
+  ]
+}
